@@ -11,13 +11,13 @@ I used this to study for my midterms as well :)
 1. Supervised and Unsupervised Learning!
 
 ### ML Basics 
-1. Decision Tree + Random Forest from Scratch (Complete)
+1. Decision Tree + Random Forest from Scratch **(Complete)**
 
-2. Linear Regression from Scratch
+2. Linear Regression **(Complete)**
 
-3. k-Nearest Neighbors from Scratch
+3. k-Nearest Neighbors **(Complete)**
 
-4. Logistic Regression
+4. Logistic Regression **(Complete)**
 
 5. Naive Bayes for Text Classification
 
