@@ -1,9 +1,11 @@
-# ML_Algorithms_From_Scratch
-My journey to building ML algorithms from scratch!
+# Warrick's Machine Learning Notebook
+Hi! Warrick here :)
+
+This documents my journey to learning ML. 
 
 This will be a combination of algorithms learned from both my course work and side projects. 
 
-I used this to study for my midterms :) 
+I used this to study for my midterms as well :) 
 
 ### Introduction 
 1. Supervised and Unsupervised Learning!
