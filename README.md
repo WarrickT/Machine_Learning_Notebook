@@ -10,7 +10,7 @@ I used this to study for my midterms as well :)
 ### Introduction 
 1. Supervised and Unsupervised Learning!
 
-### ML Basics 
+### ML Basics (Complete)
 1. Decision Tree + Random Forest from Scratch **(Complete)**
 
 2. Linear Regression **(Complete)**
@@ -19,11 +19,11 @@ I used this to study for my midterms as well :)
 
 4. Logistic Regression **(Complete)**
 
-5. Naive Bayes for Text Classification
+5. Naive Bayes **(Complete)**
 
-6. k-Means Clustering
+6. k-Means Clustering **(Complete)**
 
-### Deep Learning 
+### Deep Learning (Will upload later :/)
 1. Artificial Neural Networks(Complete)
 
 2. Convolutional Neural Networks (Complete)
