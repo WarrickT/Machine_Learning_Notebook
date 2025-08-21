@@ -23,7 +23,7 @@ I used this to study for my midterms as well :)
 
 6. k-Means Clustering **(Complete)**
 
-### Deep Learning (Will upload later :/)
+### Deep Learning
 1. Artificial Neural Networks(Complete)
 
 2. Convolutional Neural Networks (Complete)
@@ -36,7 +36,7 @@ I used this to study for my midterms as well :)
 
 6. GANs
 
-7. GNNs
+7. Graph Neural Networks 
 
 ### Reinforcement Learning 
 
