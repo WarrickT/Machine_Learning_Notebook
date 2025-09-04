@@ -30,7 +30,7 @@ I used this to study for my midterms as well :)
 
 3. Encoder-Decoder Architectures **(Complete)**
 
-4. RNNs, LSTMs, and GRUs **(Complete) **
+4. RNNs, LSTMs, and GRUs **(Complete)**
 
 5. Transformers **(Complete)**
 
