@@ -24,19 +24,19 @@ I used this to study for my midterms as well :)
 6. k-Means Clustering **(Complete)**
 
 ### Deep Learning
-1. Artificial Neural Networks(Complete)
+1. Artificial Neural Networks **(Complete)**
 
-2. Convolutional Neural Networks (Complete)
+2. Convolutional Neural Networks **(Complete)**
 
-3. Encoder-Decoder Architectures (Complete)
+3. Encoder-Decoder Architectures **(Complete)**
 
-4. RNNs, LSTMs, and GRUs (In Progress) 
+4. RNNs, LSTMs, and GRUs **(Complete) **
 
-5. Transformers (In Progress)
+5. Transformers **(Complete)**
 
-6. GANs
+6. GANs **(Complete)**
 
-7. Graph Neural Networks 
+7. Graph Neural Networks **(Complete)**
 
 ### Reinforcement Learning 
 
