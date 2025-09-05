@@ -1,11 +1,11 @@
 # Warrick's Machine Learning Notebook
-Hi! Warrick here :)
+Hi! Warrick here. 
 
 This documents my journey to learning ML. 
 
 This will be a combination of algorithms learned from both my course work and side projects. 
 
-I used this to study for my midterms as well :) 
+So far there has been **15 entries.**
 
 ### Introduction 
 1. Supervised and Unsupervised Learning!
