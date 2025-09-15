@@ -3,9 +3,7 @@ Hi! Warrick here.
 
 This documents my journey to learning ML. 
 
-This will be a combination of algorithms learned from both my course work and side projects. 
-
-So far there has been **15 entries.**
+This will be a combination of algorithms and algorithms learned from both my course work and side projects, with from scratch examples of code. 
 
 ### Introduction 
 1. Supervised and Unsupervised Learning!
