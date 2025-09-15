@@ -9,7 +9,7 @@ This will be a combination of algorithms and algorithms learned from both my cou
 1. Supervised and Unsupervised Learning!
 
 ### ML Basics (Complete)
-1. Decision Tree + Random Forest from Scratch **(Complete)**
+1. Decision Tree + Random Forest  **(Complete)**
 
 2. Linear Regression **(Complete)**
 
@@ -38,14 +38,16 @@ This will be a combination of algorithms and algorithms learned from both my cou
 
 ### Reinforcement Learning 
 
-1. Basics: State, Action, Value Functions
+1. Basics: State, Action, Value Functions **(Complete)**
 
-2. Monte Carlo Policy Evaluation 
+2. Dynamic Programming and Bellman Equations **(Complete)**
 
-3. SARSA
+3. Monte Carlo Policy Evaluation 
 
-4. Q-Learning
+4. SARSA
 
-5. RL-Squared (Y. Duan et al)
+5. Q-Learning
 
-6. PPO (Proximal Policy Optimization)
+6. RL-Squared (Y. Duan et al)
+
+7. PPO (Proximal Policy Optimization)
