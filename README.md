@@ -22,7 +22,7 @@ This will be a combination of algorithms and algorithms learned from both my cou
 ### Deep Learning
 1. Artificial Neural Networks **(Complete)**
 
-2. Convolutional Neural Networks **(Complete)**
+2. [Convolutional Neural Networks](https://github.com/WarrickT/Machine_Learning_Notebook/blob/main/Deep_Learning/CNN.ipynb) **(Complete)**
 
 3. [Autoencoders and Unsupervised Learning](https://github.com/WarrickT/Machine_Learning_Notebook/blob/main/Deep_Learning/Unsupervised_Learning.ipynb) **(Complete)**
 
